@@ -1,0 +1,1 @@
+Here is my note from Harvard University's CS50x 2024 Introduction to Computer Science course.

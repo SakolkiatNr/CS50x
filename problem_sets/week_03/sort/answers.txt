@@ -1,0 +1,13 @@
+sort1 uses: Bubble Sort
+
+How do you know?: random10000 Takes 0.25s, reverse10000 Takes 0.27s, sorted10000 Takes 0.07s on the best case scenario is the fastest
+
+sort2 uses: Merge Sort
+
+How do you know?: random10000 Takes 0.08s, reverse10000 Takes 0.05s, sorted10000 Takes 0.06s all three Takes approximately the same time but it's faster than sort 3
+
+sort3 uses: Selection Sort
+
+How do you know?: random10000 Takes 0.14s, reversed10000 Takes 0.13s <- O notation, sorted10000 Takes 0.16s <- Ω notation, both case and random run approximately the same time
+
+
